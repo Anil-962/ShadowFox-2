@@ -1,0 +1,15 @@
+STORE SALES AND PROFIT ANALYSIS REPORT
+==================================================
+
+Analysis Timestamp: 2025-10-15 17:38:52
+Dataset Shape: (1000, 15)
+
+KEY METRICS:
+--------------------
+Total Sales: $1,001,373.87
+Total Profit: $174,438.27
+Overall Profit Margin: 17.42%
+Total Transactions: 1,000
+
+FILES GENERATED:
+--------------------
